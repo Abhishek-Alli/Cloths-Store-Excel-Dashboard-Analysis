@@ -81,6 +81,4 @@ The data for this project was sourced from an Excel file, which includes multipl
 
 The Clothes Store Sales Dashboard serves as a powerful tool for analyzing and visualizing sales data. By providing actionable insights, it empowers the store’s management to optimize operations, improve sales strategies, and enhance overall business performance.
 
----
 
-For any issues or questions, feel free to contact the project owner or open an issue in this repository.
