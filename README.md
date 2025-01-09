@@ -1,4 +1,4 @@
-# Clothes Store Sales Dashboard Analysis
+# Clothes Store Excel Dashboard Analysis
 
 ## Project Overview
 
